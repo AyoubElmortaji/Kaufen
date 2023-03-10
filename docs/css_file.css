@@ -344,6 +344,8 @@ footer h3{
 margin: 80px auto;
 }
 table{
-  width: 100%;
+  width: 90%;
   border-collapse: collapse;
+  justify-content: center;
+  margin: 15px;
 }
